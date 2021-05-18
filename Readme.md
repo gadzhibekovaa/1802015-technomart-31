@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Alina Gadzhibekova](https://up.htmlacademy.ru/htmlcss/31/user/1802015).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов] (https://htmlacademy.ru/profile/crazer).
 
 ---
 
